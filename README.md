@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Zeynab 👋
 
-<!--
-**ZeynabNazari912/ZeynabNazari912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year IT student at the University of Dubai  
+🌐 Learning Web Development (HTML, CSS, JavaScript)  
+📱 Learning Mobile App Development (Dart & Flutter)  
+🎨 Focused on building clean, responsive user interfaces  
+🚀 Learning through hands-on projects
 
-Here are some ideas to get you started:
+## Featured Web Projects
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mobile App Projects (Flutter)
+
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/zeynab-nazari-21947297  
+- Email: zeynabnazari912@gmail.com
