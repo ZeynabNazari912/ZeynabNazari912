@@ -6,12 +6,6 @@
 🎨 Focused on building clean, responsive user interfaces  
 🚀 Learning through hands-on projects
 
-## Featured Web Projects
- 
-
-## Mobile App Projects (Flutter)
-
-
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/zeynab-nazari-21947297  
 - Email: zeynabnazari912@gmail.com
